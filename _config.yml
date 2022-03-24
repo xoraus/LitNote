@@ -1,0 +1,16 @@
+title: Evergreen Notes # The title of the blog
+author: xoraus # Your name 
+email: imsafay@gmail.com # your email shown in the footer
+url: https://github.com/xoraus/til # this is your site's root address.
+description: > # this means to ignore newlines until "show_excerpts:"
+  A secret place where I share my evergreen notes from obbsidian vault.
+favicon: "./favicon.ico" # set the favicon of the site 
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Build settings
+theme: moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
