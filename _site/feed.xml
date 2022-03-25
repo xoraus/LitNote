@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-25T02:05:29+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Evergreen Notes</title><subtitle>A secret place where I share my evergreen notes from obbsidian vault.
-</subtitle><author><name>xoraus</name></author><entry><title type="html">Jordan Peterson: How to Speak on a Topic</title><link href="http://localhost:4000/2022/03/25/How-to-Speak-on-a-Topic.html" rel="alternate" type="text/html" title="Jordan Peterson: How to Speak on a Topic" /><published>2022-03-25T00:00:00+05:30</published><updated>2022-03-25T00:00:00+05:30</updated><id>http://localhost:4000/2022/03/25/How-to-Speak-on-a-Topic</id><content type="html" xml:base="http://localhost:4000/2022/03/25/How-to-Speak-on-a-Topic.html"><![CDATA[<h1 id="1-preparation">1. Preparation</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-25T10:40:50+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Literature Notes</title><subtitle>A secret place where I jot down technical stuff to take reference and act smart when the time comes.
+</subtitle><author><name>Sajjad Salaria</name></author><entry><title type="html">Jordan Peterson: How to Speak on a Topic</title><link href="http://localhost:4000/2022/03/25/How-to-Speak-on-a-Topic.html" rel="alternate" type="text/html" title="Jordan Peterson: How to Speak on a Topic" /><published>2022-03-25T00:00:00+05:30</published><updated>2022-03-25T00:00:00+05:30</updated><id>http://localhost:4000/2022/03/25/How-to-Speak-on-a-Topic</id><content type="html" xml:base="http://localhost:4000/2022/03/25/How-to-Speak-on-a-Topic.html"><![CDATA[<h2 id="1-preparation">1. Preparation</h2>
 <ul>
   <li>A. Know 3-4 times as much as you will communicate</li>
   <li>B. Have a point</li>
@@ -7,7 +7,7 @@
   <li>D. Sit for 30 minutes with your eyes closed before speaking and organize your ideas around a problem</li>
 </ul>
 
-<h1 id="2-the-talk-itself">2. The talk itself</h1>
+<h2 id="2-the-talk-itself">2. The talk itself</h2>
 <ul>
   <li>A. Talk about what you know</li>
   <li>B. Use stories from personal experience</li>
