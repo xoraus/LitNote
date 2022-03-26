@@ -1,6 +1,6 @@
 title: Literature Notes # The title of the blog
 author: Sajjad Salaria # Your name
-email: imsafay@gmail.com # your email shown in the footer
+email: blog.xoraus@gmail.com # your email shown in the footer
 url: https://xoraus.github.io/LitNotes # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   A secret place where I jot down technical stuff to take reference and act smart when the time comes.
@@ -14,3 +14,6 @@ remote_theme: huangyz0918/moving # huangyz0918/moving # note, please use huangyz
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Google Analytics
+google_analytics: G-NY2B0DHMLM
